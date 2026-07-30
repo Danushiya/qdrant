@@ -54,10 +54,21 @@ for collection_name, distance in collections.items():
             )
         )
 
+BATCH_SIZE = 500
+
+for i in range(0, len(points), BATCH_SIZE):
+    batch = points[i:i + BATCH_SIZE]
+
     client.upsert(
         collection_name=collection_name,
-        points=points,
+        points=batch,
     )
+
+    print(f"Uploaded {i + len(batch)} / {len(points)}")
+    # client.upsert(
+    #     collection_name=collection_name,
+    #     points=points,
+    # )
 
     print(f"{collection_name} created with {len(points)} vectors.")
 
