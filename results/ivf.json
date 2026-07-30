@@ -1,0 +1,362 @@
+{
+  "How do I install a graphics card driver?": {
+    "nprobe_1": {
+      "latency": 0.0006414590025087819,
+      "results": [
+        {
+          "id": 1285,
+          "score": 0.48744577169418335,
+          "category": "misc.forsale",
+          "text": "I have the following Nth Engine graphics cards for sale w/drivers for \nAutoCAD R11. Display list proccessing is done through hardware.\n\nB640\t- 640x480\nB752\t- 752x580\n\nI will take the highest reanable offer.\n--"
+        },
+        {
+          "id": 4532,
+          "score": 0.46990767121315,
+          "category": "comp.graphics",
+          "text": "I'm getting ready to buy a multimedia workstation and would like a little\nadvice.  I need a graphics card that will do video in and out under windows.\nI was originally thinking of a Targa+ but that doesn't work under Windows.\nWhat cards should I be looking into?\n\nThanks,\nCraig"
+        },
+        {
+          "id": 1456,
+          "score": 0.4678732752799988,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "Hello,\n\nI am looking for a PC card with the following features:\n\n  - Controller for IDE(AT-Bus)-HardDiskDrive\n  - Controller for 2 FloppyDiskDrives\n  - Standard(256KB) VGA Graphics  INCLUDING FEATURE CONNECTOR (important!)\n                                  ===========================\n\nThere *are* some manufacturors/distributors of this kind of card, but I have\nnot found them yet.\n\nIf you can help me, please mail to:  ICH344@DJUKFA11\n                                     ICH344@zam001.zam.kfa-juelich.de"
+        },
+        {
+          "id": 515,
+          "score": 0.46664732694625854,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Hi, anyone have the latest drivers for the Actix Graphics Accelerator Card? \n(32 plus) The one I have (version 1.21) seem to have a lot of problems. \nI believe the latest version is 1.3 and would someone please \nupload it to some ftp site so that I can download it. \n\nThanks \n\n\n-- \n\n\nDaniel Y.H. Wong\t\t\t\t\tUofT:(416)978-1659\nwongda@picton.eecg.toronto.edu\t\t\t\tElectrical Engineering"
+        },
+        {
+          "id": 678,
+          "score": 0.4603191614151001,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "I would appreciate the driver name from CICA which functions as a 256\ncolor driver for a Quadtel video card. The type of chip or chipset used\nwould suffice as well."
+        }
+      ]
+    },
+    "nprobe_8": {
+      "latency": 0.0007115830012480728,
+      "results": [
+        {
+          "id": 1285,
+          "score": 0.48744577169418335,
+          "category": "misc.forsale",
+          "text": "I have the following Nth Engine graphics cards for sale w/drivers for \nAutoCAD R11. Display list proccessing is done through hardware.\n\nB640\t- 640x480\nB752\t- 752x580\n\nI will take the highest reanable offer.\n--"
+        },
+        {
+          "id": 4532,
+          "score": 0.46990767121315,
+          "category": "comp.graphics",
+          "text": "I'm getting ready to buy a multimedia workstation and would like a little\nadvice.  I need a graphics card that will do video in and out under windows.\nI was originally thinking of a Targa+ but that doesn't work under Windows.\nWhat cards should I be looking into?\n\nThanks,\nCraig"
+        },
+        {
+          "id": 1456,
+          "score": 0.4678732752799988,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "Hello,\n\nI am looking for a PC card with the following features:\n\n  - Controller for IDE(AT-Bus)-HardDiskDrive\n  - Controller for 2 FloppyDiskDrives\n  - Standard(256KB) VGA Graphics  INCLUDING FEATURE CONNECTOR (important!)\n                                  ===========================\n\nThere *are* some manufacturors/distributors of this kind of card, but I have\nnot found them yet.\n\nIf you can help me, please mail to:  ICH344@DJUKFA11\n                                     ICH344@zam001.zam.kfa-juelich.de"
+        },
+        {
+          "id": 515,
+          "score": 0.46664732694625854,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Hi, anyone have the latest drivers for the Actix Graphics Accelerator Card? \n(32 plus) The one I have (version 1.21) seem to have a lot of problems. \nI believe the latest version is 1.3 and would someone please \nupload it to some ftp site so that I can download it. \n\nThanks \n\n\n-- \n\n\nDaniel Y.H. Wong\t\t\t\t\tUofT:(416)978-1659\nwongda@picton.eecg.toronto.edu\t\t\t\tElectrical Engineering"
+        },
+        {
+          "id": 678,
+          "score": 0.4603191614151001,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "I would appreciate the driver name from CICA which functions as a 256\ncolor driver for a Quadtel video card. The type of chip or chipset used\nwould suffice as well."
+        }
+      ]
+    }
+  },
+  "My computer keeps crashing after installing Windows.": {
+    "nprobe_1": {
+      "latency": 0.00023979199977475218,
+      "results": [
+        {
+          "id": 3448,
+          "score": 0.5154204964637756,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Hi.  My last question for the year.  I have a mail-order no-name notebook\nwith 4 meg ram.  I never have problems with my huge ramdisk or when\nrunning desqview, but Win3.1 and W4W2.0 constantly crash on me, most\ncommonly citing a \"memory parity error.\"  The only thing I can do is TURN\nOFF and re-boot.  My CMOS ticks off & counts all the memory every startup,\nand there is never a problem with this either.\n\nCould it be a bug in my Windows copy instead of the hardware?  I remember\nhaving some disk error problems when installing it.\n\n\nIs there any change I could make to lessen the frequency or likelyhood of\nthis happening (I think win vs win /s produce different crashes, but both\ncrash frequently nonetheless)"
+        },
+        {
+          "id": 2089,
+          "score": 0.4918559193611145,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Have you tried setting FILES in your config.sys file to a fairly high\nnumber? (I've got mine set to 100; I've seen numbers from 40 to 100 \nrecommended). Also check your STACKS statement, STACKS=9,256 is a good\nstarting point. Try increasing it if it's already set there (such as\nto STACKS=12,256, etc.). Both STACKS and FILES have been identified as\n_one_ cause of frequent Win3.1 crashes."
+        },
+        {
+          "id": 726,
+          "score": 0.429860919713974,
+          "category": "comp.sys.mac.hardware",
+          "text": "I just recently bought a 4 MB ram card for my original mac portable \n(backlit) and have since had some bizarre crashes. It happens when I put \nthe machine to sleep and wake the machine up. sometimes it will just \nfreeze the cursor and lock the machine up forcing me to push the reset \nswitch. Other times it will give me the usual bomb box with the error \nmessage of \"Co processor not installed\". \n\nI know one solution is NOT to put the machine to sleep, but does anyone \nhave any ideas on what could be causing this or better yet what might fix \nit? The memory card is Psuedostatic ram and goes into the PDS Slot. That \nprobably figures into the problem. the manufacturer is King Memory (Not \nkingston) from irvine, CA. They say the problem is in my machine. \n\nAny Ideas? -- Gene Wright."
+        },
+        {
+          "id": 93,
+          "score": 0.42627280950546265,
+          "category": "comp.os.ms-windows.misc",
+          "text": "As the subjects says, Windows 3.1 keeps crashing (givinh me GPF) on me of  \nlate.  It was never a very stable package, but now it seems to crash every  \nday.  The worst part about it is that it does not crash consistently: ie I  \ncan't reproduce crashes, and they are not always GPF's in the same  \napplication. Sometimes I can recover by simply closing the application  \nthat caused an error, but other times, windows acts very strange, and I  \nneed to re-boot.\n\nSome background:  I have a Leading Edge 486sx25 with Phoenix BIOS.  When I  \nfirst got it it had 4Mg of memory.  It ran windows fine (not too many  \nGPF's).  Then, a couple of weekends ago, I installed Lotus 123 for windows  \n(with ATM), a game card and an additional 4  1Mg SIMMS.  The Leading edge  \nmachine is kind of strange, in that it has the IDE controler built into  \nthe motherboard, the CPU is actually on a sparate board that plugs into  \nthe motherboard and the SIMMS it uses are Macintosh SIMMS! Apparently I  \nwas told that the Leading Edge had the parity bit built into the mother  \nboard.  The original 4Mg 80ns SIMMS where of the 2 chip variety from  \nSAMSUNG, and the ones I installed are 8 chip SIMMS. They are recognized  \nfine by the BIOS RAM check. The game card is a generic $20 gamecard.\n\nThe reason why I mention the hardware like this is that sometimes  \nrebooting the machine using the reset button or ctl-alt-del still leaves  \nthe machine kind of flaky, but turning it on and off doesn't. \n\nI haven't tried taking out the RAM or the game card, because as I said  \nthese GPF are not reproducible at will.  I have gone through and entire  \nday using the computer with no problems and then I might get 5 or so GPF's  \nin the sppace of 20 minutes?\n\nWhat can I do.  This situation is most annoying... Are there any good  \ndiagnostic tools for hardware? Do you think that this might be a software  \nproblem (ie EMM386 etc.)? If it helps, i have manage to get GPF's on After  \nDark, quicken, Paint shop pro. A lot of them have been in user.exe or  \ngdi.exe.\n\nAny help is truly appreciated.....\n\n-Eric"
+        },
+        {
+          "id": 3905,
+          "score": 0.3948442339897156,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Whenever I exit Windows, I can't use control-alt DEL to reboot my  \ncomputer, because the system hangs when I do this. I can still reboot  \nusing the reset key, but I would like to know why this happens..\n\nEric"
+        }
+      ]
+    },
+    "nprobe_8": {
+      "latency": 0.0005728749965783209,
+      "results": [
+        {
+          "id": 3448,
+          "score": 0.5154204964637756,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Hi.  My last question for the year.  I have a mail-order no-name notebook\nwith 4 meg ram.  I never have problems with my huge ramdisk or when\nrunning desqview, but Win3.1 and W4W2.0 constantly crash on me, most\ncommonly citing a \"memory parity error.\"  The only thing I can do is TURN\nOFF and re-boot.  My CMOS ticks off & counts all the memory every startup,\nand there is never a problem with this either.\n\nCould it be a bug in my Windows copy instead of the hardware?  I remember\nhaving some disk error problems when installing it.\n\n\nIs there any change I could make to lessen the frequency or likelyhood of\nthis happening (I think win vs win /s produce different crashes, but both\ncrash frequently nonetheless)"
+        },
+        {
+          "id": 2089,
+          "score": 0.4918559193611145,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Have you tried setting FILES in your config.sys file to a fairly high\nnumber? (I've got mine set to 100; I've seen numbers from 40 to 100 \nrecommended). Also check your STACKS statement, STACKS=9,256 is a good\nstarting point. Try increasing it if it's already set there (such as\nto STACKS=12,256, etc.). Both STACKS and FILES have been identified as\n_one_ cause of frequent Win3.1 crashes."
+        },
+        {
+          "id": 726,
+          "score": 0.429860919713974,
+          "category": "comp.sys.mac.hardware",
+          "text": "I just recently bought a 4 MB ram card for my original mac portable \n(backlit) and have since had some bizarre crashes. It happens when I put \nthe machine to sleep and wake the machine up. sometimes it will just \nfreeze the cursor and lock the machine up forcing me to push the reset \nswitch. Other times it will give me the usual bomb box with the error \nmessage of \"Co processor not installed\". \n\nI know one solution is NOT to put the machine to sleep, but does anyone \nhave any ideas on what could be causing this or better yet what might fix \nit? The memory card is Psuedostatic ram and goes into the PDS Slot. That \nprobably figures into the problem. the manufacturer is King Memory (Not \nkingston) from irvine, CA. They say the problem is in my machine. \n\nAny Ideas? -- Gene Wright."
+        },
+        {
+          "id": 93,
+          "score": 0.42627280950546265,
+          "category": "comp.os.ms-windows.misc",
+          "text": "As the subjects says, Windows 3.1 keeps crashing (givinh me GPF) on me of  \nlate.  It was never a very stable package, but now it seems to crash every  \nday.  The worst part about it is that it does not crash consistently: ie I  \ncan't reproduce crashes, and they are not always GPF's in the same  \napplication. Sometimes I can recover by simply closing the application  \nthat caused an error, but other times, windows acts very strange, and I  \nneed to re-boot.\n\nSome background:  I have a Leading Edge 486sx25 with Phoenix BIOS.  When I  \nfirst got it it had 4Mg of memory.  It ran windows fine (not too many  \nGPF's).  Then, a couple of weekends ago, I installed Lotus 123 for windows  \n(with ATM), a game card and an additional 4  1Mg SIMMS.  The Leading edge  \nmachine is kind of strange, in that it has the IDE controler built into  \nthe motherboard, the CPU is actually on a sparate board that plugs into  \nthe motherboard and the SIMMS it uses are Macintosh SIMMS! Apparently I  \nwas told that the Leading Edge had the parity bit built into the mother  \nboard.  The original 4Mg 80ns SIMMS where of the 2 chip variety from  \nSAMSUNG, and the ones I installed are 8 chip SIMMS. They are recognized  \nfine by the BIOS RAM check. The game card is a generic $20 gamecard.\n\nThe reason why I mention the hardware like this is that sometimes  \nrebooting the machine using the reset button or ctl-alt-del still leaves  \nthe machine kind of flaky, but turning it on and off doesn't. \n\nI haven't tried taking out the RAM or the game card, because as I said  \nthese GPF are not reproducible at will.  I have gone through and entire  \nday using the computer with no problems and then I might get 5 or so GPF's  \nin the sppace of 20 minutes?\n\nWhat can I do.  This situation is most annoying... Are there any good  \ndiagnostic tools for hardware? Do you think that this might be a software  \nproblem (ie EMM386 etc.)? If it helps, i have manage to get GPF's on After  \nDark, quicken, Paint shop pro. A lot of them have been in user.exe or  \ngdi.exe.\n\nAny help is truly appreciated.....\n\n-Eric"
+        },
+        {
+          "id": 5972,
+          "score": 0.39651039242744446,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Preface: I am a novice user at best to the Windows environment.\n\nI am trying to execute a MS C++ 7.0 executable program which accesses a Btrieve\ndatabase to build an ASCII file.  \n\nWhen I execute it under windows the screen goes blank and my PC locks up.  The only\nway for me to return is to reset the machine.\n\nDoes anyone have any insight on what I may have to do in order for the program to\ncorrectly under windows?  (By the way it runs fine in DOS 5.0)\n\nSystem:  Gateway 486/DX250 \n\t ATI Graphics Ultra Card 640x480\n\nAny help would be greatly appreciated."
+        }
+      ]
+    }
+  },
+  "What are the latest space shuttle missions?": {
+    "nprobe_1": {
+      "latency": 0.00021158299932722002,
+      "results": [
+        {
+          "id": 153,
+          "score": 0.521255612373352,
+          "category": "sci.space",
+          "text": "Archive-name: space/schedule\nLast-modified: $Date: 93/04/01 14:39:23 $\n\nSPACE SHUTTLE ANSWERS, LAUNCH SCHEDULES, TV COVERAGE\n\n    SHUTTLE LAUNCHINGS AND LANDINGS; SCHEDULES AND HOW TO SEE THEM\n\n    Shuttle operations are discussed in the Usenet group sci.space.shuttle,\n    and Ken Hollis (gandalf@pro-electric.cts.com) posts a compressed version\n    of the shuttle manifest (launch dates and other information)\n    periodically there. The manifest is also available from the Ames SPACE\n    archive in SPACE/FAQ/manifest. The portion of his manifest formerly\n    included in this FAQ has been removed; please refer to his posting or\n    the archived copy. For the most up to date information on upcoming\n    missions, call (407) 867-INFO (867-4636) at Kennedy Space Center.\n\n    Official NASA shuttle status reports are posted to sci.space.news\n    frequently.\n\n\n    WHY DOES THE SHUTTLE ROLL JUST AFTER LIFTOFF?\n\n    The following answer and translation are provided by Ken Jenks\n    (kjenks@gothamcity.jsc.nasa.gov).\n\n    The \"Ascent Guidance and Flight Control Training Manual,\" ASC G&C 2102,\n\n\t\"During the vertical rise phase, the launch pad attitude is\n\tcommanded until an I-loaded V(rel) sufficient to assure launch tower\n\tclearance is achieved. Then, the tilt maneuver (roll program)\n\torients the vehicle to a heads down attitude required to generate a\n\tnegative q-alpha, which in turn alleviates structural loading. Other\n\tadvantages with this attitude are performance gain, decreased abort\n\tmaneuver complexity, improved S-band look angles, and crew view of\n\tthe horizon. The tilt maneuver is also required to start gaining\n\tdownrange velocity to achieve the main engine cutoff (MECO) target\n\tin second stage.\"\n\n    This really is a good answer, but it's couched in NASA jargon. I'll try\n    to interpret.\n\n    1)\tWe wait until the Shuttle clears the tower before rolling.\n\n    2)\tThen, we roll the Shuttle around so that the angle of attack\n\tbetween the wind caused by passage through the atmosphere (the\n\t\"relative wind\") and the chord of the wings (the imaginary line\n\tbetween the leading edge and the trailing edge) is a slightly\n\tnegative angle (\"a negative q-alpha\").\tThis causes a little bit of\n\t\"downward\" force (toward the belly of the Orbiter, or the +Z\n\tdirection) and this force \"alleviates structural loading.\"\n\tWe have to be careful about those wings -- they're about the\n\tmost \"delicate\" part of the vehicle.\n\n    3)\tThe new attitude (after the roll) also allows us to carry more\n\tmass to orbit, or to achieve a higher orbit with the same mass, or\n\tto change the orbit to a higher or lower inclination than would be\n\tthe case if we didn't roll (\"performance gain\").\n\n    4)\tThe new attitude allows the crew to fly a less complicated\n\tflight path if they had to execute one of the more dangerous abort\n\tmaneuvers, the Return To Launch Site (\"decreased abort maneuver\n\tcomplexity\").\n\n    5)\tThe new attitude improves the ability for ground-based radio\n\tantennae to have a good line-of-sight signal with the S-band radio\n\tantennae on the Orbiter (\"improved S-band look angles\").\n\n    6)\tThe new attitude allows the crew to see the horizon, which is a\n\thelpful (but not mandatory) part of piloting any flying machine.\n\n    7)\tThe new attitude orients the Shuttle so that the body is\n\tmore nearly parallel with the ground, and the nose to the east\n\t(usually).  This allows the thrust from the engines to add velocity\n\tin the correct direction to eventually achieve orbit.  Remember:\n\tvelocity is a vector quantity made of both speed and direction.\n\tThe Shuttle has to have a large horizontal component to its\n\tvelocity and a very small vertical component to attain orbit.\n\n    This all begs the question, \"Why isn't the launch pad oriented to give\n    this nice attitude to begin with?  Why does the Shuttle need to roll to\n    achieve that attitude?\"  The answer is that the pads were leftovers\n    from the Apollo days.  The Shuttle straddles two flame trenches -- one\n    for the Solid Rocket Motor exhaust, one for the Space Shuttle Main\n    Engine exhaust.  (You can see the effects of this on any daytime\n    launch.  The SRM exhaust is dirty gray garbage, and the SSME exhaust is\n    fluffy white steam.  Watch for the difference between the \"top\"\n    [Orbiter side] and the \"bottom\" [External Tank side] of the stack.) The\n    access tower and other support and service structure are all oriented\n    basically the same way they were for the Saturn V's.  (A side note: the\n    Saturn V's also had a roll program.  Don't ask me why -- I'm a Shuttle\n    guy.)\n\n    I checked with a buddy in Ascent Dynamics.\tHe added that the \"roll\n    maneuver\" is really a maneuver in all three axes: roll, pitch and yaw.\n    The roll component of that maneuver is performed for the reasons\n    stated.  The pitch component controls loading on the wings by keeping\n    the angle of attack (q-alpha) within a tight tolerance.  The yaw\n    component is used to determine the orbital inclination.  The total\n    maneuver is really expressed as a \"quaternion,\" a grad-level-math\n    concept for combining all three rotation matrices in one four-element\n    array.\n\n\n    HOW TO RECEIVE THE NASA TV CHANNEL, NASA SELECT\n\n    NASA SELECT is broadcast by satellite. If you have access to a satellite\n    dish, you can find SELECT on Satcom F2R, Transponder 13, C-Band, 72\n    degrees West Longitude, Audio 6.8, Frequency 3960 MHz. F2R is stationed\n    over the Atlantic, and is increasingly difficult to receive from\n    California and points west. During events of special interest (e.g.\n    shuttle missions), SELECT is sometimes broadcast on a second satellite\n    for these viewers.\n\n    If you can't get a satellite feed, some cable operators carry SELECT.\n    It's worth asking if yours doesn't.\n\n    The SELECT schedule is found in the NASA Headline News which is\n    frequently posted to sci.space.news. Generally it carries press\n    conferences, briefings by NASA officials, and live coverage of shuttle\n    missions and planetary encounters. SELECT has recently begun carrying\n    much more secondary material (associated with SPACELINK) when missions\n    are not being covered.\n\n\n    AMATEUR RADIO FREQUENCIES FOR SHUTTLE MISSIONS\n\n    The following are believed to rebroadcast space shuttle mission audio:\n\n\tW6FXN  - Los Angeles\n\tK6MF   - Ames Research Center, Mountain View, California\n\tWA3NAN - Goddard Space Flight Center (GSFC), Greenbelt, Maryland.\n\tW5RRR  - Johnson Space Center (JSC), Houston, Texas\n\tW6VIO  - Jet Propulsion Laboratory (JPL), Pasadena, California.\n\tW1AW Voice Bulletins\n\n\tStation    VHF\t   10m\t   15m\t   20m\t  40m\t 80m\n\t------\t ------  ------  ------  ------  -----\t-----\n\tW6FXN\t 145.46\n\tK6MF\t 145.585\t\t\t 7.165\t3.840\n\tWA3NAN\t 147.45  28.650  21.395  14.295  7.185\t3.860\n\tW5RRR\t 146.64  28.400  21.350  14.280  7.227\t3.850\n\tW6VIO\t 224.04\t\t 21.340  14.270\n\tW6VIO\t 224.04\t\t 21.280  14.282  7.165\t3.840\n\tW1AW\t\t 28.590  21.390  14.290  7.290\t3.990\n\n    W5RRR transmits mission audio on 146.64, a special event station on the\n    other frequencies supplying Keplerian Elements and mission information.\n\n    W1AW also transmits on 147.555, 18.160. No mission audio but they\n    transmit voice bulletins at 0245 and 0545 UTC.\n\n    Frequencies in the 10-20m bands require USB and frequencies in the 40\n    and 80m bands LSB. Use FM for the VHF frequencies.\n\n    [This item was most recently updated courtesy of Gary Morris\n    (g@telesoft.com, KK6YB, N5QWC)]\n\n\n    SOLID ROCKET BOOSTER FUEL COMPOSITION\n\n    Reference: \"Shuttle Flight Operations Manual\" Volume 8B - Solid Rocket\n    Booster Systems, NASA Document JSC-12770\n\n    Propellant Composition (percent)\n\n    Ammonium perchlorate (oxidizer)\t\t\t69.6\n    Aluminum\t\t\t\t\t\t16\n    Iron Oxide (burn rate catalyst)\t\t\t0.4\n    Polybutadiene-acrilic acid-acrylonitrile (a rubber) 12.04\n    Epoxy curing agent\t\t\t\t\t1.96\n\n    End reference\n\n    Comment: The aluminum, rubber, and epoxy all burn with the oxidizer."
+        },
+        {
+          "id": 3665,
+          "score": 0.47225090861320496,
+          "category": "sci.space",
+          "text": "The most current orbital elements from the NORAD two-line element sets are\ncarried on the Celestial BBS, (513) 427-0674, and are updated daily (when\npossible).  Documentation and tracking software are also available on this\nsystem.  As a service to the satellite user community, the most current\nelements for the current shuttle mission are provided below.  The Celestial\nBBS may be accessed 24 hours/day at 300, 1200, 2400, 4800, or 9600 bps using\n8 data bits, 1 stop bit, no parity.\n\nElement sets (also updated daily), shuttle elements, and some documentation\nand software are also available via anonymous ftp from archive.afit.af.mil\n(129.92.1.66) in the directory pub/space.\n\nSTS 56     \n1 22621U 93 23  A 93105.06179397  .00044513  00000-0  12649-3 0   230\n2 22621  57.0022 147.2850 0004246 288.7332  38.0941 15.92991629  1084\n1993 023B  \n1 22623U 93 23  B 93103.37312705  .00041032  00000-0  11888-3 0    86\n2 22623  57.0000 155.1150 0004422 293.4650  66.5967 15.92653917   803"
+        },
+        {
+          "id": 5880,
+          "score": 0.46920299530029297,
+          "category": "sci.space",
+          "text": "Ed Campion\nHeadquarters, Washington, D.C.                             April 23, 1993\n(Phone:  202/358-1780)\n\nKyle Herring\nJohnson Space Center, Houston\n(Phone:  713/483-5111)\n\nRELEASE:  93-76\n\nHUBBLE TELESCOPE SERVICING MISSION SCHEDULED FOR ELEVEN DAYS\n\n\tThe December flight of Endeavour on Space Shuttle mission STS-61 to\nservice the Hubble Space Telescope (HST) has been scheduled as an 11 day\nmission designed to accommodate a record five spacewalks with the capability\nfor an additional two, if needed.\n\n\tThe decision to schedule five extravehicular activities, or EVAs, was\nreached following extensive evaluations of underwater training, maneuver times\nrequired using the Shuttle's robot arm based on software simulations and actual\nEVA tasks on previous missions.\n\n\t\"Basically what we've done by going to five EVAs rather than three is\nto repackage our margin so that we have the capability to respond to the\ndynamics, or unknowns, of spacewalks,\" Mission Director Randy Brinkley said.\n\"It improves the probabilities for mission success while providing added\nflexibility and adaptability for reacting to real-time situations.\"\n\n\tIn laying out the specific tasks to be completed on each of the\nspacewalks, officials have determined that changing out the gyros, solar arrays\nand the Wide Field/Planetary Camera (WF/PC) and installing the Corrective\nOptics Space Telescope Axial Replacement (COSTAR) are priority objectives\nduring the mission.\n\n\t\"When we looked at accomplishing all of the tasks, highest through\nlowest priority, and recognizing that the major tasks -- gyros, solar arrays,\nWF/PC and COSTAR -- would consume most of the time set aside for each\nspacewalk, five EVAs were deemed appropriate,\" said Milt Heflin, Lead Flight\nDirector for the mission.\n\n\tWhile the five spacewalks will be unprecedented, the use of two\nalternating spacewalk teams will alleviate placing more stress on the crew than\nprevious missions requiring two, three or four EVAs.\n\n\t\"We have paid close attention to lessons learned during previous\nspacewalks and factored these into our timeline estimates for five EVAs,\"\nHeflin said.  \"In planning for all Space Shuttle missions, it is necessary to\nformulate a work schedule that represents as realistic a timeline as possible\nto accomplish the mission objectives.\"\n\n\tPlanning currently calls for at least five water tank training sessions\nthat include support from the Mission Control Center, called joint integrated\nsimulations, lasting between 10 and 36 hours.  In addition, many stand alone\nunderwater training \"runs\" will practice individual tasks in each spacewalk.\n\n\tVarious refinements to the specific tasks on each spacewalk will be\nmade based on actual training experience during the months prior to the\nmission.  Also, lessons learned from other spacewalks leading up to the flight\nwill be valuable in assisting the STS-61 crew in its training techniques.\n\n\tEndeavour's June flight and Discovery's July mission both will include\nspacewalks to evaluate some of the unique tools to be used on the HST mission.\nThe evaluations will help in better understanding the differences between the\nactual weightlessness of space and the ground training in the water tanks at\nthe Johnson Space Center, Houston, and the Marshall Space Flight Center,\nHuntsville, Ala.\n\n\tAlso, the inflight spacewalking experiences will assist in gaining\nfurther insight into the time required for the various tasks and expand the\nexperience levels among the astronaut corps, the flight controllers and\ntrainers.\n\n\tDesigned to be serviced by a Space Shuttle crew, Hubble was built with\ngrapple fixtures and handholds to assist in the capture and repair procedures.\n\n\tThe telescope was launched aboard Discovery in April 1990.  At that\ntime the NASA mixed fleet manifest showed the first revisit mission to HST in\n1993 to change out science instruments and make any repairs that may have\nbecome necessary."
+        },
+        {
+          "id": 4312,
+          "score": 0.4690572917461395,
+          "category": "sci.space",
+          "text": "There is a guy in NASA Johnson Space Center  that might answer \nyour question. I do not have his name right now but if you follow \nup I can dig that out for you.\n\nC.O.Egalon@larc.nasa.gov"
+        },
+        {
+          "id": 1665,
+          "score": 0.43475982546806335,
+          "category": "sci.space",
+          "text": "For an essay, I am writing about the space shuttle and a need for a better\npropulsion system.  Through research, I have found that it is rather clumsy \n(i.e. all the checks/tests before launch), the safety hazards (\"sitting\non a hydrogen bomb\"), etc..  If you have any beefs about the current\nspace shuttle program Re: propulsion, please send me your ideas.\n\nThanks a lot."
+        }
+      ]
+    },
+    "nprobe_8": {
+      "latency": 0.0008057080012804363,
+      "results": [
+        {
+          "id": 153,
+          "score": 0.521255612373352,
+          "category": "sci.space",
+          "text": "Archive-name: space/schedule\nLast-modified: $Date: 93/04/01 14:39:23 $\n\nSPACE SHUTTLE ANSWERS, LAUNCH SCHEDULES, TV COVERAGE\n\n    SHUTTLE LAUNCHINGS AND LANDINGS; SCHEDULES AND HOW TO SEE THEM\n\n    Shuttle operations are discussed in the Usenet group sci.space.shuttle,\n    and Ken Hollis (gandalf@pro-electric.cts.com) posts a compressed version\n    of the shuttle manifest (launch dates and other information)\n    periodically there. The manifest is also available from the Ames SPACE\n    archive in SPACE/FAQ/manifest. The portion of his manifest formerly\n    included in this FAQ has been removed; please refer to his posting or\n    the archived copy. For the most up to date information on upcoming\n    missions, call (407) 867-INFO (867-4636) at Kennedy Space Center.\n\n    Official NASA shuttle status reports are posted to sci.space.news\n    frequently.\n\n\n    WHY DOES THE SHUTTLE ROLL JUST AFTER LIFTOFF?\n\n    The following answer and translation are provided by Ken Jenks\n    (kjenks@gothamcity.jsc.nasa.gov).\n\n    The \"Ascent Guidance and Flight Control Training Manual,\" ASC G&C 2102,\n\n\t\"During the vertical rise phase, the launch pad attitude is\n\tcommanded until an I-loaded V(rel) sufficient to assure launch tower\n\tclearance is achieved. Then, the tilt maneuver (roll program)\n\torients the vehicle to a heads down attitude required to generate a\n\tnegative q-alpha, which in turn alleviates structural loading. Other\n\tadvantages with this attitude are performance gain, decreased abort\n\tmaneuver complexity, improved S-band look angles, and crew view of\n\tthe horizon. The tilt maneuver is also required to start gaining\n\tdownrange velocity to achieve the main engine cutoff (MECO) target\n\tin second stage.\"\n\n    This really is a good answer, but it's couched in NASA jargon. I'll try\n    to interpret.\n\n    1)\tWe wait until the Shuttle clears the tower before rolling.\n\n    2)\tThen, we roll the Shuttle around so that the angle of attack\n\tbetween the wind caused by passage through the atmosphere (the\n\t\"relative wind\") and the chord of the wings (the imaginary line\n\tbetween the leading edge and the trailing edge) is a slightly\n\tnegative angle (\"a negative q-alpha\").\tThis causes a little bit of\n\t\"downward\" force (toward the belly of the Orbiter, or the +Z\n\tdirection) and this force \"alleviates structural loading.\"\n\tWe have to be careful about those wings -- they're about the\n\tmost \"delicate\" part of the vehicle.\n\n    3)\tThe new attitude (after the roll) also allows us to carry more\n\tmass to orbit, or to achieve a higher orbit with the same mass, or\n\tto change the orbit to a higher or lower inclination than would be\n\tthe case if we didn't roll (\"performance gain\").\n\n    4)\tThe new attitude allows the crew to fly a less complicated\n\tflight path if they had to execute one of the more dangerous abort\n\tmaneuvers, the Return To Launch Site (\"decreased abort maneuver\n\tcomplexity\").\n\n    5)\tThe new attitude improves the ability for ground-based radio\n\tantennae to have a good line-of-sight signal with the S-band radio\n\tantennae on the Orbiter (\"improved S-band look angles\").\n\n    6)\tThe new attitude allows the crew to see the horizon, which is a\n\thelpful (but not mandatory) part of piloting any flying machine.\n\n    7)\tThe new attitude orients the Shuttle so that the body is\n\tmore nearly parallel with the ground, and the nose to the east\n\t(usually).  This allows the thrust from the engines to add velocity\n\tin the correct direction to eventually achieve orbit.  Remember:\n\tvelocity is a vector quantity made of both speed and direction.\n\tThe Shuttle has to have a large horizontal component to its\n\tvelocity and a very small vertical component to attain orbit.\n\n    This all begs the question, \"Why isn't the launch pad oriented to give\n    this nice attitude to begin with?  Why does the Shuttle need to roll to\n    achieve that attitude?\"  The answer is that the pads were leftovers\n    from the Apollo days.  The Shuttle straddles two flame trenches -- one\n    for the Solid Rocket Motor exhaust, one for the Space Shuttle Main\n    Engine exhaust.  (You can see the effects of this on any daytime\n    launch.  The SRM exhaust is dirty gray garbage, and the SSME exhaust is\n    fluffy white steam.  Watch for the difference between the \"top\"\n    [Orbiter side] and the \"bottom\" [External Tank side] of the stack.) The\n    access tower and other support and service structure are all oriented\n    basically the same way they were for the Saturn V's.  (A side note: the\n    Saturn V's also had a roll program.  Don't ask me why -- I'm a Shuttle\n    guy.)\n\n    I checked with a buddy in Ascent Dynamics.\tHe added that the \"roll\n    maneuver\" is really a maneuver in all three axes: roll, pitch and yaw.\n    The roll component of that maneuver is performed for the reasons\n    stated.  The pitch component controls loading on the wings by keeping\n    the angle of attack (q-alpha) within a tight tolerance.  The yaw\n    component is used to determine the orbital inclination.  The total\n    maneuver is really expressed as a \"quaternion,\" a grad-level-math\n    concept for combining all three rotation matrices in one four-element\n    array.\n\n\n    HOW TO RECEIVE THE NASA TV CHANNEL, NASA SELECT\n\n    NASA SELECT is broadcast by satellite. If you have access to a satellite\n    dish, you can find SELECT on Satcom F2R, Transponder 13, C-Band, 72\n    degrees West Longitude, Audio 6.8, Frequency 3960 MHz. F2R is stationed\n    over the Atlantic, and is increasingly difficult to receive from\n    California and points west. During events of special interest (e.g.\n    shuttle missions), SELECT is sometimes broadcast on a second satellite\n    for these viewers.\n\n    If you can't get a satellite feed, some cable operators carry SELECT.\n    It's worth asking if yours doesn't.\n\n    The SELECT schedule is found in the NASA Headline News which is\n    frequently posted to sci.space.news. Generally it carries press\n    conferences, briefings by NASA officials, and live coverage of shuttle\n    missions and planetary encounters. SELECT has recently begun carrying\n    much more secondary material (associated with SPACELINK) when missions\n    are not being covered.\n\n\n    AMATEUR RADIO FREQUENCIES FOR SHUTTLE MISSIONS\n\n    The following are believed to rebroadcast space shuttle mission audio:\n\n\tW6FXN  - Los Angeles\n\tK6MF   - Ames Research Center, Mountain View, California\n\tWA3NAN - Goddard Space Flight Center (GSFC), Greenbelt, Maryland.\n\tW5RRR  - Johnson Space Center (JSC), Houston, Texas\n\tW6VIO  - Jet Propulsion Laboratory (JPL), Pasadena, California.\n\tW1AW Voice Bulletins\n\n\tStation    VHF\t   10m\t   15m\t   20m\t  40m\t 80m\n\t------\t ------  ------  ------  ------  -----\t-----\n\tW6FXN\t 145.46\n\tK6MF\t 145.585\t\t\t 7.165\t3.840\n\tWA3NAN\t 147.45  28.650  21.395  14.295  7.185\t3.860\n\tW5RRR\t 146.64  28.400  21.350  14.280  7.227\t3.850\n\tW6VIO\t 224.04\t\t 21.340  14.270\n\tW6VIO\t 224.04\t\t 21.280  14.282  7.165\t3.840\n\tW1AW\t\t 28.590  21.390  14.290  7.290\t3.990\n\n    W5RRR transmits mission audio on 146.64, a special event station on the\n    other frequencies supplying Keplerian Elements and mission information.\n\n    W1AW also transmits on 147.555, 18.160. No mission audio but they\n    transmit voice bulletins at 0245 and 0545 UTC.\n\n    Frequencies in the 10-20m bands require USB and frequencies in the 40\n    and 80m bands LSB. Use FM for the VHF frequencies.\n\n    [This item was most recently updated courtesy of Gary Morris\n    (g@telesoft.com, KK6YB, N5QWC)]\n\n\n    SOLID ROCKET BOOSTER FUEL COMPOSITION\n\n    Reference: \"Shuttle Flight Operations Manual\" Volume 8B - Solid Rocket\n    Booster Systems, NASA Document JSC-12770\n\n    Propellant Composition (percent)\n\n    Ammonium perchlorate (oxidizer)\t\t\t69.6\n    Aluminum\t\t\t\t\t\t16\n    Iron Oxide (burn rate catalyst)\t\t\t0.4\n    Polybutadiene-acrilic acid-acrylonitrile (a rubber) 12.04\n    Epoxy curing agent\t\t\t\t\t1.96\n\n    End reference\n\n    Comment: The aluminum, rubber, and epoxy all burn with the oxidizer."
+        },
+        {
+          "id": 3665,
+          "score": 0.47225090861320496,
+          "category": "sci.space",
+          "text": "The most current orbital elements from the NORAD two-line element sets are\ncarried on the Celestial BBS, (513) 427-0674, and are updated daily (when\npossible).  Documentation and tracking software are also available on this\nsystem.  As a service to the satellite user community, the most current\nelements for the current shuttle mission are provided below.  The Celestial\nBBS may be accessed 24 hours/day at 300, 1200, 2400, 4800, or 9600 bps using\n8 data bits, 1 stop bit, no parity.\n\nElement sets (also updated daily), shuttle elements, and some documentation\nand software are also available via anonymous ftp from archive.afit.af.mil\n(129.92.1.66) in the directory pub/space.\n\nSTS 56     \n1 22621U 93 23  A 93105.06179397  .00044513  00000-0  12649-3 0   230\n2 22621  57.0022 147.2850 0004246 288.7332  38.0941 15.92991629  1084\n1993 023B  \n1 22623U 93 23  B 93103.37312705  .00041032  00000-0  11888-3 0    86\n2 22623  57.0000 155.1150 0004422 293.4650  66.5967 15.92653917   803"
+        },
+        {
+          "id": 5880,
+          "score": 0.46920299530029297,
+          "category": "sci.space",
+          "text": "Ed Campion\nHeadquarters, Washington, D.C.                             April 23, 1993\n(Phone:  202/358-1780)\n\nKyle Herring\nJohnson Space Center, Houston\n(Phone:  713/483-5111)\n\nRELEASE:  93-76\n\nHUBBLE TELESCOPE SERVICING MISSION SCHEDULED FOR ELEVEN DAYS\n\n\tThe December flight of Endeavour on Space Shuttle mission STS-61 to\nservice the Hubble Space Telescope (HST) has been scheduled as an 11 day\nmission designed to accommodate a record five spacewalks with the capability\nfor an additional two, if needed.\n\n\tThe decision to schedule five extravehicular activities, or EVAs, was\nreached following extensive evaluations of underwater training, maneuver times\nrequired using the Shuttle's robot arm based on software simulations and actual\nEVA tasks on previous missions.\n\n\t\"Basically what we've done by going to five EVAs rather than three is\nto repackage our margin so that we have the capability to respond to the\ndynamics, or unknowns, of spacewalks,\" Mission Director Randy Brinkley said.\n\"It improves the probabilities for mission success while providing added\nflexibility and adaptability for reacting to real-time situations.\"\n\n\tIn laying out the specific tasks to be completed on each of the\nspacewalks, officials have determined that changing out the gyros, solar arrays\nand the Wide Field/Planetary Camera (WF/PC) and installing the Corrective\nOptics Space Telescope Axial Replacement (COSTAR) are priority objectives\nduring the mission.\n\n\t\"When we looked at accomplishing all of the tasks, highest through\nlowest priority, and recognizing that the major tasks -- gyros, solar arrays,\nWF/PC and COSTAR -- would consume most of the time set aside for each\nspacewalk, five EVAs were deemed appropriate,\" said Milt Heflin, Lead Flight\nDirector for the mission.\n\n\tWhile the five spacewalks will be unprecedented, the use of two\nalternating spacewalk teams will alleviate placing more stress on the crew than\nprevious missions requiring two, three or four EVAs.\n\n\t\"We have paid close attention to lessons learned during previous\nspacewalks and factored these into our timeline estimates for five EVAs,\"\nHeflin said.  \"In planning for all Space Shuttle missions, it is necessary to\nformulate a work schedule that represents as realistic a timeline as possible\nto accomplish the mission objectives.\"\n\n\tPlanning currently calls for at least five water tank training sessions\nthat include support from the Mission Control Center, called joint integrated\nsimulations, lasting between 10 and 36 hours.  In addition, many stand alone\nunderwater training \"runs\" will practice individual tasks in each spacewalk.\n\n\tVarious refinements to the specific tasks on each spacewalk will be\nmade based on actual training experience during the months prior to the\nmission.  Also, lessons learned from other spacewalks leading up to the flight\nwill be valuable in assisting the STS-61 crew in its training techniques.\n\n\tEndeavour's June flight and Discovery's July mission both will include\nspacewalks to evaluate some of the unique tools to be used on the HST mission.\nThe evaluations will help in better understanding the differences between the\nactual weightlessness of space and the ground training in the water tanks at\nthe Johnson Space Center, Houston, and the Marshall Space Flight Center,\nHuntsville, Ala.\n\n\tAlso, the inflight spacewalking experiences will assist in gaining\nfurther insight into the time required for the various tasks and expand the\nexperience levels among the astronaut corps, the flight controllers and\ntrainers.\n\n\tDesigned to be serviced by a Space Shuttle crew, Hubble was built with\ngrapple fixtures and handholds to assist in the capture and repair procedures.\n\n\tThe telescope was launched aboard Discovery in April 1990.  At that\ntime the NASA mixed fleet manifest showed the first revisit mission to HST in\n1993 to change out science instruments and make any repairs that may have\nbecome necessary."
+        },
+        {
+          "id": 4312,
+          "score": 0.4690572917461395,
+          "category": "sci.space",
+          "text": "There is a guy in NASA Johnson Space Center  that might answer \nyour question. I do not have his name right now but if you follow \nup I can dig that out for you.\n\nC.O.Egalon@larc.nasa.gov"
+        },
+        {
+          "id": 1665,
+          "score": 0.43475982546806335,
+          "category": "sci.space",
+          "text": "For an essay, I am writing about the space shuttle and a need for a better\npropulsion system.  Through research, I have found that it is rather clumsy \n(i.e. all the checks/tests before launch), the safety hazards (\"sitting\non a hydrogen bomb\"), etc..  If you have any beefs about the current\nspace shuttle program Re: propulsion, please send me your ideas.\n\nThanks a lot."
+        }
+      ]
+    }
+  },
+  "How can I improve my baseball batting skills?": {
+    "nprobe_1": {
+      "latency": 0.00016670900004100986,
+      "results": [
+        {
+          "id": 1589,
+          "score": 0.5376632809638977,
+          "category": "rec.sport.baseball",
+          "text": "Don't knock Vaughn for being a spring training .400 hitter\nbut a .250 regular season hitter.\nAround 30 games played isn't an indication of how good any\nhitter is, and the quality of pitching is way down.\n\nRyan Robbins\nPenobscot Hall\nUniversity of Maine"
+        },
+        {
+          "id": 1485,
+          "score": 0.5022984743118286,
+          "category": "rec.sport.baseball",
+          "text": "This was (my opinion) the stupidest thing in the Hidden Game. The\nargument was\n\n1) Defense, or runs allowed, is 50% of the game.\n2) Unearned runs amount to 12% of the runs allowed; earned runs, 88%.\n\n3) Since unearned runs are the result of fielding, not pitching, and\nearned runs are the product of pitching, not fielding, fielding is 12%\nof defense and pitching is 88% of defense.\n4) Caombining with #1, pitching is 44% of the game, fielding 6%.\n\nPete is usually sharper than that. My own feel is that fielding is in\nthe 25-33% of defense range; call it 30-70 between fielding and\npitching.\n\n\nI'd give baserunning a little more credit than that, maybe 45-5, or\neven 40-10. Give a team of Roberto Alomar and a team of John Oleruds\nidentical batting stats (which wouldn't be that unreasonable), and\neven if you don't let Roberto steal a single base, they'll score a lot\nmore than the Oleruds by going first-to-third more often. (No offense,\nGordon)."
+        },
+        {
+          "id": 4214,
+          "score": 0.49065059423446655,
+          "category": "rec.sport.baseball",
+          "text": "Not if you've scored four runs, you don't!  Why strain even the best pitching\nstaff?  Why not make it easier for them?  \n\nIn the 2-1 game, the best pitching staff in the world can't compensate\nfor a blown call, a bad hop, a gust of wind.  Winning close is the \nwrong way to win; both keeping opposing runs down AND scoring a lot \nyourself are insurance against the \"Shit happens\" aspect of baseball.\n\nNot every great teamhas even *good* pitching.  The Big Red Machine of\nthe 70's was league-average in pitching.  But somehow, Rose-Morgan-Bench-\nPerez-etc. managed to win 100 games more than once, peaking at 108."
+        },
+        {
+          "id": 5100,
+          "score": 0.4878404140472412,
+          "category": "rec.sport.baseball",
+          "text": "Name            Pos   AB    H    2B    3B    HR    RBI    RS    SB    E    AVG\n------------------------------------------------------------------------------\nBoston          OF    12    7                        2     6              .583\nGalarraga       1B    28   13     3           1      9     2              .464\nTatum           3B     5    2     1                                       .400\nCole            CF    24    9           1            2     8     2        .375\nE. Young        2B    28    9     1     1     1      5    10     5    3   .321\nHayes           3B    25    7     1           2      5     2     1    2   .280\nMurphy          OF     4    1                        1                    .250\nBichette        RF    21    5                 1      5     3     1        .238\nClark           LF    24    5     2                        2          1   .208\nGirardi          C    25    5     1     1            3     2              .200\nCastilla        SS     6    1                                         1   .167\nBenavides       SS    18    1                        2     1          4   .056\nG. Young        OF     1                                   1              .000\nPITCHERS         P    12                                                  .000\n------------------------------------------------------------------------------\nTotals               233   65     9     3     5     34    37     9   11   .279\n\nName            L/R   IP    H    R    ER    K    BB    ERA    W    L    S\n-------------------------------------------------------------------------\nWayne            L     2.7  3    0     0    3     2    0.00   0    0    0\nAldred           L     5    4    3     1    1     6    1.80   0    0    0\nSmith            R    12.3 15    3     3    2     3    2.19   1    1    0\nAshby            R     5    6    2     2    3     5    3.60   0    0    0 \nNeid             R    12   15    6     6    5     8    4.50   1    1    0\nParrett          R     5.7  7    3     3    7     3    4.76   0    0    0\nBlair            R     5.3  7    5     3    2     3    5.06   0    0    0\nHenry            L     6    9    6     5    4     1    7.50   0    1    0\nRuffin           L     3    7    6     5    3     4   15.00   0    1    0\nReed             R     2.7  7    7     7    1     3   23.63   0    0    0\nHolmes           R     1.3  6   10     9    1     4   60.75   0    1    0"
+        },
+        {
+          "id": 1757,
+          "score": 0.4754470884799957,
+          "category": "rec.sport.baseball",
+          "text": "Dave Winfield's name does not go\n\n\n\n       In terms of PEAK, and I repeat PEAK years, Winfield has Done it  \nall. He has batted in the 340's for a season, drove in 100 and more runs  \nmany times in a row before his injury. Consistently hit at or near 300  \nwhile knocking in 35 home runs. Have you even LOOKED at Dave Winfield's  \nslugging percentage for three or 4 of his best seasons. I still think that  \ndave was one of the BETTER of all time, but obviously not the best. He was  \none of the best athletes evr to play baseball. He hit line drives that hit  \nthe scoreboard in left-center field, a feat np one has done in the new  \nStadium. Heck, only 2 or 3 other people have hit it over that green fence  \nsince it has been remodeled. He could field, had a bullet arm, and his  \nhitting was comparable in many seasons to gary sheffields, and barry bonds  \nof last season. He is older now, and slowing down, takes more of an  \nuppercut to lift the ball out of the park, but he will always be my hero,  \nand my idol. There is nothing that could make me happier than George  \ninviting Dave back to the Bronx to play his last year of ball with the  \nYankees. Of course, he will most likely refuse the offer, but who knows?  \nFor 3 million dollars, he'll play. Heck they are giving gallego 2.5  \nmillion this year, having Dave as their DH, while leaving him time to play  \nthe field when Tartabull is injured, or Nokes and mass are traded, should  \ngive the Yanks the inspiration and leadership that will sweep in a new age  \nof Yankee domination."
+        }
+      ]
+    },
+    "nprobe_8": {
+      "latency": 0.0006737080002494622,
+      "results": [
+        {
+          "id": 1589,
+          "score": 0.5376632809638977,
+          "category": "rec.sport.baseball",
+          "text": "Don't knock Vaughn for being a spring training .400 hitter\nbut a .250 regular season hitter.\nAround 30 games played isn't an indication of how good any\nhitter is, and the quality of pitching is way down.\n\nRyan Robbins\nPenobscot Hall\nUniversity of Maine"
+        },
+        {
+          "id": 1485,
+          "score": 0.5022984743118286,
+          "category": "rec.sport.baseball",
+          "text": "This was (my opinion) the stupidest thing in the Hidden Game. The\nargument was\n\n1) Defense, or runs allowed, is 50% of the game.\n2) Unearned runs amount to 12% of the runs allowed; earned runs, 88%.\n\n3) Since unearned runs are the result of fielding, not pitching, and\nearned runs are the product of pitching, not fielding, fielding is 12%\nof defense and pitching is 88% of defense.\n4) Caombining with #1, pitching is 44% of the game, fielding 6%.\n\nPete is usually sharper than that. My own feel is that fielding is in\nthe 25-33% of defense range; call it 30-70 between fielding and\npitching.\n\n\nI'd give baserunning a little more credit than that, maybe 45-5, or\neven 40-10. Give a team of Roberto Alomar and a team of John Oleruds\nidentical batting stats (which wouldn't be that unreasonable), and\neven if you don't let Roberto steal a single base, they'll score a lot\nmore than the Oleruds by going first-to-third more often. (No offense,\nGordon)."
+        },
+        {
+          "id": 4115,
+          "score": 0.49763691425323486,
+          "category": "rec.sport.baseball",
+          "text": "I don't\n\nWell, no problem!  But I get pretty annoyed when they swing at non-strikes\nand make outs.  Especially ball four on the 3-2 counts...\n\nDave"
+        },
+        {
+          "id": 4214,
+          "score": 0.49065059423446655,
+          "category": "rec.sport.baseball",
+          "text": "Not if you've scored four runs, you don't!  Why strain even the best pitching\nstaff?  Why not make it easier for them?  \n\nIn the 2-1 game, the best pitching staff in the world can't compensate\nfor a blown call, a bad hop, a gust of wind.  Winning close is the \nwrong way to win; both keeping opposing runs down AND scoring a lot \nyourself are insurance against the \"Shit happens\" aspect of baseball.\n\nNot every great teamhas even *good* pitching.  The Big Red Machine of\nthe 70's was league-average in pitching.  But somehow, Rose-Morgan-Bench-\nPerez-etc. managed to win 100 games more than once, peaking at 108."
+        },
+        {
+          "id": 5100,
+          "score": 0.4878404140472412,
+          "category": "rec.sport.baseball",
+          "text": "Name            Pos   AB    H    2B    3B    HR    RBI    RS    SB    E    AVG\n------------------------------------------------------------------------------\nBoston          OF    12    7                        2     6              .583\nGalarraga       1B    28   13     3           1      9     2              .464\nTatum           3B     5    2     1                                       .400\nCole            CF    24    9           1            2     8     2        .375\nE. Young        2B    28    9     1     1     1      5    10     5    3   .321\nHayes           3B    25    7     1           2      5     2     1    2   .280\nMurphy          OF     4    1                        1                    .250\nBichette        RF    21    5                 1      5     3     1        .238\nClark           LF    24    5     2                        2          1   .208\nGirardi          C    25    5     1     1            3     2              .200\nCastilla        SS     6    1                                         1   .167\nBenavides       SS    18    1                        2     1          4   .056\nG. Young        OF     1                                   1              .000\nPITCHERS         P    12                                                  .000\n------------------------------------------------------------------------------\nTotals               233   65     9     3     5     34    37     9   11   .279\n\nName            L/R   IP    H    R    ER    K    BB    ERA    W    L    S\n-------------------------------------------------------------------------\nWayne            L     2.7  3    0     0    3     2    0.00   0    0    0\nAldred           L     5    4    3     1    1     6    1.80   0    0    0\nSmith            R    12.3 15    3     3    2     3    2.19   1    1    0\nAshby            R     5    6    2     2    3     5    3.60   0    0    0 \nNeid             R    12   15    6     6    5     8    4.50   1    1    0\nParrett          R     5.7  7    3     3    7     3    4.76   0    0    0\nBlair            R     5.3  7    5     3    2     3    5.06   0    0    0\nHenry            L     6    9    6     5    4     1    7.50   0    1    0\nRuffin           L     3    7    6     5    3     4   15.00   0    1    0\nReed             R     2.7  7    7     7    1     3   23.63   0    0    0\nHolmes           R     1.3  6   10     9    1     4   60.75   0    1    0"
+        }
+      ]
+    }
+  },
+  "What is the best way to maintain a motorcycle?": {
+    "nprobe_1": {
+      "latency": 0.0002813339997373987,
+      "results": [
+        {
+          "id": 3201,
+          "score": 0.5473721027374268,
+          "category": "rec.motorcycles",
+          "text": "Greg,\n\nI'm very new to motorcycles. Haven't even bought one yet. I was in the same\nposition about you. How do you learn if you've never ridden.\n\nI took a class put on by a group called the Motorcycle Safety Foundation\nin California. They might have something similar in Washington."
+        },
+        {
+          "id": 5377,
+          "score": 0.4800504148006439,
+          "category": "rec.motorcycles",
+          "text": "Hi. I have been thinking about buying a Motorcycle or a while now and I have\nsome questions:\n\n-Is there a buying guide for new/used motorcycles (that lists reliability, how\nto go about the buying process, what to look for, etc...)?\n-Is there a pricing guide for new/used motorcycles (Blue Book)?\n\nAlso\n-Are there any books/articles on riding cross country, motorcycle camping, etc?\n-Is there an idiots' guide to motorcycles?\n\nANY related information is helpful. Please respond directly to me.\n\nThanks a lot.\n-Jordan\n\nMe also.\n\t\t\t\t\tThanks,"
+        },
+        {
+          "id": 5673,
+          "score": 0.4771674871444702,
+          "category": "rec.motorcycles",
+          "text": "Hi. I have been thinking about buying a Motorcycle or a while now and I have\nsome questions:\n\n-Is there a buying guide for new/used motorcycles (that lists reliability, how\nto go about the buying process, what to look for, etc...)?\n-Is there a pricing guide for new/used motorcycles (Blue Book)?\n\nAlso\n-Are there any books/articles on riding cross country, motorcycle camping, etc?\n-Is there an idiots' guide to motorcycles?\n\nANY related information is helpful. Please respond directly to me."
+        },
+        {
+          "id": 2216,
+          "score": 0.45902112126350403,
+          "category": "rec.motorcycles",
+          "text": "I learned when riding bareback as a kid to \"palm-reign\", by just \npushing on the right side of the horse's neck with your right palm to turn \nleft - a lot like countersteering. So that came pretty easy to me in the \ntransition to motorcycles. It took a while however to break my habit of \nkicking the rear fender with my heels to go faster."
+        },
+        {
+          "id": 3934,
+          "score": 0.4076313078403473,
+          "category": "rec.motorcycles",
+          "text": "You may find it useful.\n(This is a repost. The original sender is at the bottom.)\n-------------------cut here--------------------------------------------------\nArticle 39994 of rec.motorcycles:\nPath:\nscrumpy!bnrgate!corpgate!news.utdallas.edu!hermes.chpc.utexas.edu!cs.ute\nexas.edu!swrinde!mips!pacbell.com!iggy.GW.Vitalink.COM!widener!eff!ibmpc\ncug!pipex!unipalm!uknet!cf-cm!cybaswan!eeharvey\nFrom: eeharvey@cybaswan.UUCP (i t harvey)\nNewsgroups: rec.motorcycles\nSubject: Re: Best way to lock a bike ?\nMessage-ID: <861@cybaswan.UUCP>\nDate: 15 Jul 92 09:47:10 GMT\nReferences: <1992Jul14.165538.9789@usenet.ins.cwru.edu>\nLines: 84\n\n\nThese are the figures from the Performance Bikes lock test, taken without\npermission of course. The price is for comparison. All the cable locks\nhave some sort of armour, the chain locks are padlock and chain. Each\nlock was tested for a maximum of ten minutes (600 secs) for each test:\n\n\tBJ\tBottle jack\n\tCD\tCutting disc\n\tBC\tBolt croppers\n\tGAS\tGas flame\n\nThe table should really be split into immoblisers (for-a-while) and\nlock-to-somethings (for-a-short-while) to make comparisons.\n\n\t\tType\tWeight\tBJ\tCD\tBC\tGAS\tTotal\tPrice\n\t\t\t(kg)\t(sec)\t(sec)\t(sec)\t(sec)\t(sec)\t(Pounds)\n========================================================================\n=========\n3-arm\t\tFolding\t.8\t53\t5\t13\t18\t89\t26\nCyclelok\tbar\n\nAbus Steel-o-\tCable\t1.4\t103\t4\t20\t26\t153\t54\nflex\n\nOxford\t\tCable\t2.0\t360\t4\t32\t82\t478\t38\nRevolver\n\nAbus Diskus\tChain\t2.8\t600\t7\t40\t26\t675\t77\n\n6-arm\t\tFolding\t1.8\t44\t10\t600\t22\t676\t51\nCyclelok\tbar\n\nAbus Extra\tU-lock\t1.2\t600\t10\t120\t52\t782\t44\n\nCobra\t\tCable\t6.0(!)\t382\t10\t600\t22\t1014\t150\n(6ft)\n\nAbus closed\tChain\t4.0\t600\t11\t600\t33\t1244\t100\nshackle\t\n\nKryptonite\tU-lock\t2.5\t600\t22\t600\t27\t1249\t100\nK10\n\nOxford\t\tU-lock\t2.0\t600\t7\t600\t49\t1256\t38\nMagnum\n\nDisclock\tDisc\t.7\tn/a\t44\tn/a\t38\t1282\t43\n\t\tlock\n\nAbus 58HB\tU-lock\t2.5\t600\t26\t600\t64\t1290\t100\n\nMini Block\tDisc\t.65\tn/a\t51\tn/a\t84\t1335\t50\n\t\tlock\n========================================================================\n=========\n\nPretty depressing reading. I think a good lock and some common sense about\nwhere and when you park your bike is the only answer. I've spent all my\nspare time over the last two weeks landscaping (trashing) the garden of\nmy (and two friends with bikes) new house to accommodate our three bikes in\nrelative security (never underestimate how much room a bike requires to\nmanouver in a walled area :( ). Anyway, since the weekend there are only two\nbikes :( and no, he didn't use his Abus closed shackle lock, it was too much\nhassle to take with him when visiting his parents. A minimum wait of 8\nweeks (if they don't decide to investigate) for the insurance company\nto make an offer and for the real haggling to begin.\n\nAbus are a German company and it would seem not well represented in the US\nbut very common in the UK. The UK distributor, given in the above article\nis:\n\tMichael Brandon Ltd,\n\t15/17 Oliver Crescent,\n\tHawick,\n\tRoxburgh TD9 9BJ.\n\tTel. 0450 73333\n\nThe UK distributors for the other locks can also given if required.\n\nDon't lose it\n\tIan"
+        }
+      ]
+    },
+    "nprobe_8": {
+      "latency": 0.0009277919998567086,
+      "results": [
+        {
+          "id": 3201,
+          "score": 0.5473721027374268,
+          "category": "rec.motorcycles",
+          "text": "Greg,\n\nI'm very new to motorcycles. Haven't even bought one yet. I was in the same\nposition about you. How do you learn if you've never ridden.\n\nI took a class put on by a group called the Motorcycle Safety Foundation\nin California. They might have something similar in Washington."
+        },
+        {
+          "id": 5377,
+          "score": 0.4800504148006439,
+          "category": "rec.motorcycles",
+          "text": "Hi. I have been thinking about buying a Motorcycle or a while now and I have\nsome questions:\n\n-Is there a buying guide for new/used motorcycles (that lists reliability, how\nto go about the buying process, what to look for, etc...)?\n-Is there a pricing guide for new/used motorcycles (Blue Book)?\n\nAlso\n-Are there any books/articles on riding cross country, motorcycle camping, etc?\n-Is there an idiots' guide to motorcycles?\n\nANY related information is helpful. Please respond directly to me.\n\nThanks a lot.\n-Jordan\n\nMe also.\n\t\t\t\t\tThanks,"
+        },
+        {
+          "id": 5673,
+          "score": 0.4771674871444702,
+          "category": "rec.motorcycles",
+          "text": "Hi. I have been thinking about buying a Motorcycle or a while now and I have\nsome questions:\n\n-Is there a buying guide for new/used motorcycles (that lists reliability, how\nto go about the buying process, what to look for, etc...)?\n-Is there a pricing guide for new/used motorcycles (Blue Book)?\n\nAlso\n-Are there any books/articles on riding cross country, motorcycle camping, etc?\n-Is there an idiots' guide to motorcycles?\n\nANY related information is helpful. Please respond directly to me."
+        },
+        {
+          "id": 2216,
+          "score": 0.45902112126350403,
+          "category": "rec.motorcycles",
+          "text": "I learned when riding bareback as a kid to \"palm-reign\", by just \npushing on the right side of the horse's neck with your right palm to turn \nleft - a lot like countersteering. So that came pretty easy to me in the \ntransition to motorcycles. It took a while however to break my habit of \nkicking the rear fender with my heels to go faster."
+        },
+        {
+          "id": 3934,
+          "score": 0.4076313078403473,
+          "category": "rec.motorcycles",
+          "text": "You may find it useful.\n(This is a repost. The original sender is at the bottom.)\n-------------------cut here--------------------------------------------------\nArticle 39994 of rec.motorcycles:\nPath:\nscrumpy!bnrgate!corpgate!news.utdallas.edu!hermes.chpc.utexas.edu!cs.ute\nexas.edu!swrinde!mips!pacbell.com!iggy.GW.Vitalink.COM!widener!eff!ibmpc\ncug!pipex!unipalm!uknet!cf-cm!cybaswan!eeharvey\nFrom: eeharvey@cybaswan.UUCP (i t harvey)\nNewsgroups: rec.motorcycles\nSubject: Re: Best way to lock a bike ?\nMessage-ID: <861@cybaswan.UUCP>\nDate: 15 Jul 92 09:47:10 GMT\nReferences: <1992Jul14.165538.9789@usenet.ins.cwru.edu>\nLines: 84\n\n\nThese are the figures from the Performance Bikes lock test, taken without\npermission of course. The price is for comparison. All the cable locks\nhave some sort of armour, the chain locks are padlock and chain. Each\nlock was tested for a maximum of ten minutes (600 secs) for each test:\n\n\tBJ\tBottle jack\n\tCD\tCutting disc\n\tBC\tBolt croppers\n\tGAS\tGas flame\n\nThe table should really be split into immoblisers (for-a-while) and\nlock-to-somethings (for-a-short-while) to make comparisons.\n\n\t\tType\tWeight\tBJ\tCD\tBC\tGAS\tTotal\tPrice\n\t\t\t(kg)\t(sec)\t(sec)\t(sec)\t(sec)\t(sec)\t(Pounds)\n========================================================================\n=========\n3-arm\t\tFolding\t.8\t53\t5\t13\t18\t89\t26\nCyclelok\tbar\n\nAbus Steel-o-\tCable\t1.4\t103\t4\t20\t26\t153\t54\nflex\n\nOxford\t\tCable\t2.0\t360\t4\t32\t82\t478\t38\nRevolver\n\nAbus Diskus\tChain\t2.8\t600\t7\t40\t26\t675\t77\n\n6-arm\t\tFolding\t1.8\t44\t10\t600\t22\t676\t51\nCyclelok\tbar\n\nAbus Extra\tU-lock\t1.2\t600\t10\t120\t52\t782\t44\n\nCobra\t\tCable\t6.0(!)\t382\t10\t600\t22\t1014\t150\n(6ft)\n\nAbus closed\tChain\t4.0\t600\t11\t600\t33\t1244\t100\nshackle\t\n\nKryptonite\tU-lock\t2.5\t600\t22\t600\t27\t1249\t100\nK10\n\nOxford\t\tU-lock\t2.0\t600\t7\t600\t49\t1256\t38\nMagnum\n\nDisclock\tDisc\t.7\tn/a\t44\tn/a\t38\t1282\t43\n\t\tlock\n\nAbus 58HB\tU-lock\t2.5\t600\t26\t600\t64\t1290\t100\n\nMini Block\tDisc\t.65\tn/a\t51\tn/a\t84\t1335\t50\n\t\tlock\n========================================================================\n=========\n\nPretty depressing reading. I think a good lock and some common sense about\nwhere and when you park your bike is the only answer. I've spent all my\nspare time over the last two weeks landscaping (trashing) the garden of\nmy (and two friends with bikes) new house to accommodate our three bikes in\nrelative security (never underestimate how much room a bike requires to\nmanouver in a walled area :( ). Anyway, since the weekend there are only two\nbikes :( and no, he didn't use his Abus closed shackle lock, it was too much\nhassle to take with him when visiting his parents. A minimum wait of 8\nweeks (if they don't decide to investigate) for the insurance company\nto make an offer and for the real haggling to begin.\n\nAbus are a German company and it would seem not well represented in the US\nbut very common in the UK. The UK distributor, given in the above article\nis:\n\tMichael Brandon Ltd,\n\t15/17 Oliver Crescent,\n\tHawick,\n\tRoxburgh TD9 9BJ.\n\tTel. 0450 73333\n\nThe UK distributors for the other locks can also given if required.\n\nDon't lose it\n\tIan"
+        }
+      ]
+    }
+  }
+}
