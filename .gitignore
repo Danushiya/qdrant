@@ -1,0 +1,12 @@
+# Virtual environment
+vdb/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Qdrant storage
+qdrant_storage/
