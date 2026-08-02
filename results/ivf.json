@@ -1,7 +1,15 @@
 {
   "How do I install a graphics card driver?": {
     "nprobe_1": {
-      "latency": 0.0006414590025087819,
+      "latency": 0.0007612090003021876,
+      "overlap": 5,
+      "ids": [
+        1285,
+        4532,
+        1456,
+        515,
+        678
+      ],
       "results": [
         {
           "id": 1285,
@@ -36,7 +44,15 @@
       ]
     },
     "nprobe_8": {
-      "latency": 0.0007115830012480728,
+      "latency": 0.0008222500000556465,
+      "overlap": 5,
+      "ids": [
+        1285,
+        4532,
+        1456,
+        515,
+        678
+      ],
       "results": [
         {
           "id": 1285,
@@ -73,7 +89,15 @@
   },
   "My computer keeps crashing after installing Windows.": {
     "nprobe_1": {
-      "latency": 0.00023979199977475218,
+      "latency": 0.0002455419999023434,
+      "overlap": 4,
+      "ids": [
+        3448,
+        2089,
+        726,
+        93,
+        3905
+      ],
       "results": [
         {
           "id": 3448,
@@ -108,7 +132,15 @@
       ]
     },
     "nprobe_8": {
-      "latency": 0.0005728749965783209,
+      "latency": 0.001217666999764333,
+      "overlap": 5,
+      "ids": [
+        3448,
+        2089,
+        726,
+        93,
+        5972
+      ],
       "results": [
         {
           "id": 3448,
@@ -145,7 +177,15 @@
   },
   "What are the latest space shuttle missions?": {
     "nprobe_1": {
-      "latency": 0.00021158299932722002,
+      "latency": 0.0002247909997095121,
+      "overlap": 5,
+      "ids": [
+        153,
+        3665,
+        5880,
+        4312,
+        1665
+      ],
       "results": [
         {
           "id": 153,
@@ -180,7 +220,15 @@
       ]
     },
     "nprobe_8": {
-      "latency": 0.0008057080012804363,
+      "latency": 0.0009523329999865382,
+      "overlap": 5,
+      "ids": [
+        153,
+        3665,
+        5880,
+        4312,
+        1665
+      ],
       "results": [
         {
           "id": 153,
@@ -217,7 +265,15 @@
   },
   "How can I improve my baseball batting skills?": {
     "nprobe_1": {
-      "latency": 0.00016670900004100986,
+      "latency": 0.00014887500037730206,
+      "overlap": 4,
+      "ids": [
+        1589,
+        1485,
+        4214,
+        5100,
+        1757
+      ],
       "results": [
         {
           "id": 1589,
@@ -252,7 +308,15 @@
       ]
     },
     "nprobe_8": {
-      "latency": 0.0006737080002494622,
+      "latency": 0.0007904169997345889,
+      "overlap": 5,
+      "ids": [
+        1589,
+        1485,
+        4115,
+        4214,
+        5100
+      ],
       "results": [
         {
           "id": 1589,
@@ -289,7 +353,15 @@
   },
   "What is the best way to maintain a motorcycle?": {
     "nprobe_1": {
-      "latency": 0.0002813339997373987,
+      "latency": 0.00016899999991437653,
+      "overlap": 5,
+      "ids": [
+        3201,
+        5377,
+        5673,
+        2216,
+        3934
+      ],
       "results": [
         {
           "id": 3201,
@@ -324,7 +396,15 @@
       ]
     },
     "nprobe_8": {
-      "latency": 0.0009277919998567086,
+      "latency": 0.0010141660004592268,
+      "overlap": 5,
+      "ids": [
+        3201,
+        5377,
+        5673,
+        2216,
+        3934
+      ],
       "results": [
         {
           "id": 3201,

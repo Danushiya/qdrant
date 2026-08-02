@@ -1,12 +1,16 @@
 import json
 import time
 
+from qdrant_client import QdrantClient
+from qdrant_client.models import SearchParams
 import numpy as np
 from sklearn.cluster import KMeans
 from sentence_transformers import SentenceTransformer
 
 # Load vectors
 vectors = np.load("data/vectors.npy")
+
+client = QdrantClient(url="http://localhost:6333")
 
 # Load metadata
 with open("data/metadata.json", "r", encoding="utf-8") as file:
@@ -108,6 +112,19 @@ for query in queries:
 
     query_vector = model.encode(query)
 
+    exact = client.query_points(
+        collection_name="news_cosine",
+        query=query_vector.tolist(),
+        limit=5,
+        search_params=SearchParams(
+            exact=True
+        ),
+    ).points
+
+    exact_ids = [p.id for p in exact]
+
+    print(f"Exact: {exact_ids}")
+
     results[query] = {}
 
     for nprobe in [1, 8]:
@@ -120,15 +137,25 @@ for query in queries:
             top_k=5,
         )
 
+        ivf_ids = [hit["id"] for hit in hits]
+
+        overlap = len(
+            set(ivf_ids) & set(exact_ids)
+        )
+
         latency = time.perf_counter() - start
 
         results[query][f"nprobe_{nprobe}"] = {
             "latency": latency,
+            "overlap": overlap,
+            "ids": ivf_ids,
             "results": hits,
         }
 
         print(
-            f"nprobe={nprobe} latency={latency:.4f}s"
+            f"nprobe={nprobe} "
+            f"overlap={overlap}/5 "
+            f"latency={latency:.4f}s"
         )
 
 with open(
