@@ -47,6 +47,7 @@ for query in queries:
     ).points
 
     exact_time = time.perf_counter() - start
+    print(f"Exact latency: {exact_time:.4f}s")
 
     exact_ids = [p.id for p in exact]
 

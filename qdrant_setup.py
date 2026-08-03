@@ -116,7 +116,8 @@ client.create_collection(
         ef_construct=16,
     ),
 )
-
+# m=16
+# ef_cons=100
 upload_points(bad_collection)
 
 print(f"{bad_collection} created successfully.")

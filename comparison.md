@@ -2,7 +2,7 @@
 
 | Method            | Configuration | Average Top-5 Overlap vs Exact | Average Latency (s) |
 | ----------------- | ------------- | -----------------------------: | ------------------: |
-| Exact Brute Force | Exact Search  |                        5.0 / 5 |           Reference |
+| Exact Brute Force | Exact Search  |                        5.0 / 5 |              0.0050 |
 | HNSW (Default)    | ef = 16       |                        5.0 / 5 |              0.0023 |
 | HNSW (Bad Config) | ef = 16       |                        5.0 / 5 |              0.0052 |
 | HNSW (Default)    | ef = 64       |                        5.0 / 5 |              0.0023 |

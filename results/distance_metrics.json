@@ -1,0 +1,492 @@
+{
+  "How do I install a graphics card driver?": {
+    "news_cosine": [
+      {
+        "id": 1285,
+        "score": 0.48744577,
+        "category": "misc.forsale",
+        "text": "I have the following Nth Engine graphics cards for sale w/drivers for \nAutoCAD R11. Display list proccessing is done thr"
+      },
+      {
+        "id": 4532,
+        "score": 0.46990764,
+        "category": "comp.graphics",
+        "text": "I'm getting ready to buy a multimedia workstation and would like a little\nadvice.  I need a graphics card that will do v"
+      },
+      {
+        "id": 1456,
+        "score": 0.46787328,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "Hello,\n\nI am looking for a PC card with the following features:\n\n  - Controller for IDE(AT-Bus)-HardDiskDrive\n  - Contro"
+      },
+      {
+        "id": 515,
+        "score": 0.46664733,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Hi, anyone have the latest drivers for the Actix Graphics Accelerator Card? \n(32 plus) The one I have (version 1.21) see"
+      },
+      {
+        "id": 678,
+        "score": 0.4603192,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I would appreciate the driver name from CICA which functions as a 256\ncolor driver for a Quadtel video card. The type of"
+      }
+    ],
+    "news_euclidean": [
+      {
+        "id": 1285,
+        "score": 1.0124764,
+        "category": "misc.forsale",
+        "text": "I have the following Nth Engine graphics cards for sale w/drivers for \nAutoCAD R11. Display list proccessing is done thr"
+      },
+      {
+        "id": 4532,
+        "score": 1.0296527,
+        "category": "comp.graphics",
+        "text": "I'm getting ready to buy a multimedia workstation and would like a little\nadvice.  I need a graphics card that will do v"
+      },
+      {
+        "id": 1456,
+        "score": 1.0316267,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "Hello,\n\nI am looking for a PC card with the following features:\n\n  - Controller for IDE(AT-Bus)-HardDiskDrive\n  - Contro"
+      },
+      {
+        "id": 515,
+        "score": 1.0328143,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Hi, anyone have the latest drivers for the Actix Graphics Accelerator Card? \n(32 plus) The one I have (version 1.21) see"
+      },
+      {
+        "id": 678,
+        "score": 1.0389234,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I would appreciate the driver name from CICA which functions as a 256\ncolor driver for a Quadtel video card. The type of"
+      }
+    ],
+    "news_dot": [
+      {
+        "id": 1285,
+        "score": 0.48744577,
+        "category": "misc.forsale",
+        "text": "I have the following Nth Engine graphics cards for sale w/drivers for \nAutoCAD R11. Display list proccessing is done thr"
+      },
+      {
+        "id": 4532,
+        "score": 0.46990764,
+        "category": "comp.graphics",
+        "text": "I'm getting ready to buy a multimedia workstation and would like a little\nadvice.  I need a graphics card that will do v"
+      },
+      {
+        "id": 1456,
+        "score": 0.46787328,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "Hello,\n\nI am looking for a PC card with the following features:\n\n  - Controller for IDE(AT-Bus)-HardDiskDrive\n  - Contro"
+      },
+      {
+        "id": 515,
+        "score": 0.46664733,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Hi, anyone have the latest drivers for the Actix Graphics Accelerator Card? \n(32 plus) The one I have (version 1.21) see"
+      },
+      {
+        "id": 678,
+        "score": 0.4603192,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I would appreciate the driver name from CICA which functions as a 256\ncolor driver for a Quadtel video card. The type of"
+      }
+    ]
+  },
+  "My computer keeps crashing after installing Windows.": {
+    "news_cosine": [
+      {
+        "id": 3448,
+        "score": 0.51542044,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Hi.  My last question for the year.  I have a mail-order no-name notebook\nwith 4 meg ram.  I never have problems with my"
+      },
+      {
+        "id": 2089,
+        "score": 0.49185583,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Have you tried setting FILES in your config.sys file to a fairly high\nnumber? (I've got mine set to 100; I've seen numbe"
+      },
+      {
+        "id": 726,
+        "score": 0.4298609,
+        "category": "comp.sys.mac.hardware",
+        "text": "I just recently bought a 4 MB ram card for my original mac portable \n(backlit) and have since had some bizarre crashes. "
+      },
+      {
+        "id": 93,
+        "score": 0.4262728,
+        "category": "comp.os.ms-windows.misc",
+        "text": "As the subjects says, Windows 3.1 keeps crashing (givinh me GPF) on me of  \nlate.  It was never a very stable package, b"
+      },
+      {
+        "id": 5972,
+        "score": 0.39651036,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Preface: I am a novice user at best to the Windows environment.\n\nI am trying to execute a MS C++ 7.0 executable program "
+      }
+    ],
+    "news_euclidean": [
+      {
+        "id": 3448,
+        "score": 0.98445874,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Hi.  My last question for the year.  I have a mail-order no-name notebook\nwith 4 meg ram.  I never have problems with my"
+      },
+      {
+        "id": 2089,
+        "score": 1.0081112,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Have you tried setting FILES in your config.sys file to a fairly high\nnumber? (I've got mine set to 100; I've seen numbe"
+      },
+      {
+        "id": 726,
+        "score": 1.0678381,
+        "category": "comp.sys.mac.hardware",
+        "text": "I just recently bought a 4 MB ram card for my original mac portable \n(backlit) and have since had some bizarre crashes. "
+      },
+      {
+        "id": 93,
+        "score": 1.071193,
+        "category": "comp.os.ms-windows.misc",
+        "text": "As the subjects says, Windows 3.1 keeps crashing (givinh me GPF) on me of  \nlate.  It was never a very stable package, b"
+      },
+      {
+        "id": 5972,
+        "score": 1.098626,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Preface: I am a novice user at best to the Windows environment.\n\nI am trying to execute a MS C++ 7.0 executable program "
+      }
+    ],
+    "news_dot": [
+      {
+        "id": 3448,
+        "score": 0.51542044,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Hi.  My last question for the year.  I have a mail-order no-name notebook\nwith 4 meg ram.  I never have problems with my"
+      },
+      {
+        "id": 2089,
+        "score": 0.49185583,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Have you tried setting FILES in your config.sys file to a fairly high\nnumber? (I've got mine set to 100; I've seen numbe"
+      },
+      {
+        "id": 726,
+        "score": 0.4298609,
+        "category": "comp.sys.mac.hardware",
+        "text": "I just recently bought a 4 MB ram card for my original mac portable \n(backlit) and have since had some bizarre crashes. "
+      },
+      {
+        "id": 93,
+        "score": 0.4262728,
+        "category": "comp.os.ms-windows.misc",
+        "text": "As the subjects says, Windows 3.1 keeps crashing (givinh me GPF) on me of  \nlate.  It was never a very stable package, b"
+      },
+      {
+        "id": 5972,
+        "score": 0.39651036,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Preface: I am a novice user at best to the Windows environment.\n\nI am trying to execute a MS C++ 7.0 executable program "
+      }
+    ]
+  },
+  "What are the latest space shuttle missions?": {
+    "news_cosine": [
+      {
+        "id": 153,
+        "score": 0.5212556,
+        "category": "sci.space",
+        "text": "Archive-name: space/schedule\nLast-modified: $Date: 93/04/01 14:39:23 $\n\nSPACE SHUTTLE ANSWERS, LAUNCH SCHEDULES, TV COVE"
+      },
+      {
+        "id": 3665,
+        "score": 0.47225085,
+        "category": "sci.space",
+        "text": "The most current orbital elements from the NORAD two-line element sets are\ncarried on the Celestial BBS, (513) 427-0674,"
+      },
+      {
+        "id": 5880,
+        "score": 0.469203,
+        "category": "sci.space",
+        "text": "Ed Campion\nHeadquarters, Washington, D.C.                             April 23, 1993\n(Phone:  202/358-1780)\n\nKyle Herrin"
+      },
+      {
+        "id": 4312,
+        "score": 0.46905726,
+        "category": "sci.space",
+        "text": "There is a guy in NASA Johnson Space Center  that might answer \nyour question. I do not have his name right now but if y"
+      },
+      {
+        "id": 1665,
+        "score": 0.43475974,
+        "category": "sci.space",
+        "text": "For an essay, I am writing about the space shuttle and a need for a better\npropulsion system.  Through research, I have "
+      }
+    ],
+    "news_euclidean": [
+      {
+        "id": 153,
+        "score": 0.9785136,
+        "category": "sci.space",
+        "text": "Archive-name: space/schedule\nLast-modified: $Date: 93/04/01 14:39:23 $\n\nSPACE SHUTTLE ANSWERS, LAUNCH SCHEDULES, TV COVE"
+      },
+      {
+        "id": 3665,
+        "score": 1.0273744,
+        "category": "sci.space",
+        "text": "The most current orbital elements from the NORAD two-line element sets are\ncarried on the Celestial BBS, (513) 427-0674,"
+      },
+      {
+        "id": 5880,
+        "score": 1.0303369,
+        "category": "sci.space",
+        "text": "Ed Campion\nHeadquarters, Washington, D.C.                             April 23, 1993\n(Phone:  202/358-1780)\n\nKyle Herrin"
+      },
+      {
+        "id": 4312,
+        "score": 1.0304782,
+        "category": "sci.space",
+        "text": "There is a guy in NASA Johnson Space Center  that might answer \nyour question. I do not have his name right now but if y"
+      },
+      {
+        "id": 1665,
+        "score": 1.0632405,
+        "category": "sci.space",
+        "text": "For an essay, I am writing about the space shuttle and a need for a better\npropulsion system.  Through research, I have "
+      }
+    ],
+    "news_dot": [
+      {
+        "id": 153,
+        "score": 0.5212556,
+        "category": "sci.space",
+        "text": "Archive-name: space/schedule\nLast-modified: $Date: 93/04/01 14:39:23 $\n\nSPACE SHUTTLE ANSWERS, LAUNCH SCHEDULES, TV COVE"
+      },
+      {
+        "id": 3665,
+        "score": 0.47225085,
+        "category": "sci.space",
+        "text": "The most current orbital elements from the NORAD two-line element sets are\ncarried on the Celestial BBS, (513) 427-0674,"
+      },
+      {
+        "id": 5880,
+        "score": 0.469203,
+        "category": "sci.space",
+        "text": "Ed Campion\nHeadquarters, Washington, D.C.                             April 23, 1993\n(Phone:  202/358-1780)\n\nKyle Herrin"
+      },
+      {
+        "id": 4312,
+        "score": 0.46905726,
+        "category": "sci.space",
+        "text": "There is a guy in NASA Johnson Space Center  that might answer \nyour question. I do not have his name right now but if y"
+      },
+      {
+        "id": 1665,
+        "score": 0.43475974,
+        "category": "sci.space",
+        "text": "For an essay, I am writing about the space shuttle and a need for a better\npropulsion system.  Through research, I have "
+      }
+    ]
+  },
+  "How can I improve my baseball batting skills?": {
+    "news_cosine": [
+      {
+        "id": 1589,
+        "score": 0.53766316,
+        "category": "rec.sport.baseball",
+        "text": "Don't knock Vaughn for being a spring training .400 hitter\nbut a .250 regular season hitter.\nAround 30 games played isn'"
+      },
+      {
+        "id": 1485,
+        "score": 0.5022985,
+        "category": "rec.sport.baseball",
+        "text": "This was (my opinion) the stupidest thing in the Hidden Game. The\nargument was\n\n1) Defense, or runs allowed, is 50% of t"
+      },
+      {
+        "id": 4115,
+        "score": 0.49763688,
+        "category": "rec.sport.baseball",
+        "text": "I don't\n\nWell, no problem!  But I get pretty annoyed when they swing at non-strikes\nand make outs.  Especially ball four"
+      },
+      {
+        "id": 4214,
+        "score": 0.49065056,
+        "category": "rec.sport.baseball",
+        "text": "Not if you've scored four runs, you don't!  Why strain even the best pitching\nstaff?  Why not make it easier for them?  "
+      },
+      {
+        "id": 5100,
+        "score": 0.4878404,
+        "category": "rec.sport.baseball",
+        "text": "Name            Pos   AB    H    2B    3B    HR    RBI    RS    SB    E    AVG\n-----------------------------------------"
+      }
+    ],
+    "news_euclidean": [
+      {
+        "id": 1589,
+        "score": 0.9615995,
+        "category": "rec.sport.baseball",
+        "text": "Don't knock Vaughn for being a spring training .400 hitter\nbut a .250 regular season hitter.\nAround 30 games played isn'"
+      },
+      {
+        "id": 1485,
+        "score": 0.9976989,
+        "category": "rec.sport.baseball",
+        "text": "This was (my opinion) the stupidest thing in the Hidden Game. The\nargument was\n\n1) Defense, or runs allowed, is 50% of t"
+      },
+      {
+        "id": 4115,
+        "score": 1.0023603,
+        "category": "rec.sport.baseball",
+        "text": "I don't\n\nWell, no problem!  But I get pretty annoyed when they swing at non-strikes\nand make outs.  Especially ball four"
+      },
+      {
+        "id": 4214,
+        "score": 1.0093062,
+        "category": "rec.sport.baseball",
+        "text": "Not if you've scored four runs, you don't!  Why strain even the best pitching\nstaff?  Why not make it easier for them?  "
+      },
+      {
+        "id": 5100,
+        "score": 1.0120866,
+        "category": "rec.sport.baseball",
+        "text": "Name            Pos   AB    H    2B    3B    HR    RBI    RS    SB    E    AVG\n-----------------------------------------"
+      }
+    ],
+    "news_dot": [
+      {
+        "id": 1589,
+        "score": 0.53766316,
+        "category": "rec.sport.baseball",
+        "text": "Don't knock Vaughn for being a spring training .400 hitter\nbut a .250 regular season hitter.\nAround 30 games played isn'"
+      },
+      {
+        "id": 1485,
+        "score": 0.5022985,
+        "category": "rec.sport.baseball",
+        "text": "This was (my opinion) the stupidest thing in the Hidden Game. The\nargument was\n\n1) Defense, or runs allowed, is 50% of t"
+      },
+      {
+        "id": 4115,
+        "score": 0.49763688,
+        "category": "rec.sport.baseball",
+        "text": "I don't\n\nWell, no problem!  But I get pretty annoyed when they swing at non-strikes\nand make outs.  Especially ball four"
+      },
+      {
+        "id": 4214,
+        "score": 0.49065056,
+        "category": "rec.sport.baseball",
+        "text": "Not if you've scored four runs, you don't!  Why strain even the best pitching\nstaff?  Why not make it easier for them?  "
+      },
+      {
+        "id": 5100,
+        "score": 0.4878404,
+        "category": "rec.sport.baseball",
+        "text": "Name            Pos   AB    H    2B    3B    HR    RBI    RS    SB    E    AVG\n-----------------------------------------"
+      }
+    ]
+  },
+  "What is the best way to maintain a motorcycle?": {
+    "news_cosine": [
+      {
+        "id": 3201,
+        "score": 0.5473721,
+        "category": "rec.motorcycles",
+        "text": "Greg,\n\nI'm very new to motorcycles. Haven't even bought one yet. I was in the same\nposition about you. How do you learn "
+      },
+      {
+        "id": 5377,
+        "score": 0.48005044,
+        "category": "rec.motorcycles",
+        "text": "Hi. I have been thinking about buying a Motorcycle or a while now and I have\nsome questions:\n\n-Is there a buying guide f"
+      },
+      {
+        "id": 5673,
+        "score": 0.47716746,
+        "category": "rec.motorcycles",
+        "text": "Hi. I have been thinking about buying a Motorcycle or a while now and I have\nsome questions:\n\n-Is there a buying guide f"
+      },
+      {
+        "id": 2216,
+        "score": 0.45902115,
+        "category": "rec.motorcycles",
+        "text": "I learned when riding bareback as a kid to \"palm-reign\", by just \npushing on the right side of the horse's neck with you"
+      },
+      {
+        "id": 3934,
+        "score": 0.4076313,
+        "category": "rec.motorcycles",
+        "text": "You may find it useful.\n(This is a repost. The original sender is at the bottom.)\n-------------------cut here-----------"
+      }
+    ],
+    "news_euclidean": [
+      {
+        "id": 3201,
+        "score": 0.95144933,
+        "category": "rec.motorcycles",
+        "text": "Greg,\n\nI'm very new to motorcycles. Haven't even bought one yet. I was in the same\nposition about you. How do you learn "
+      },
+      {
+        "id": 5377,
+        "score": 1.0197545,
+        "category": "rec.motorcycles",
+        "text": "Hi. I have been thinking about buying a Motorcycle or a while now and I have\nsome questions:\n\n-Is there a buying guide f"
+      },
+      {
+        "id": 5673,
+        "score": 1.0225776,
+        "category": "rec.motorcycles",
+        "text": "Hi. I have been thinking about buying a Motorcycle or a while now and I have\nsome questions:\n\n-Is there a buying guide f"
+      },
+      {
+        "id": 2216,
+        "score": 1.040172,
+        "category": "rec.motorcycles",
+        "text": "I learned when riding bareback as a kid to \"palm-reign\", by just \npushing on the right side of the horse's neck with you"
+      },
+      {
+        "id": 3934,
+        "score": 1.0884564,
+        "category": "rec.motorcycles",
+        "text": "You may find it useful.\n(This is a repost. The original sender is at the bottom.)\n-------------------cut here-----------"
+      }
+    ],
+    "news_dot": [
+      {
+        "id": 3201,
+        "score": 0.5473721,
+        "category": "rec.motorcycles",
+        "text": "Greg,\n\nI'm very new to motorcycles. Haven't even bought one yet. I was in the same\nposition about you. How do you learn "
+      },
+      {
+        "id": 5377,
+        "score": 0.48005044,
+        "category": "rec.motorcycles",
+        "text": "Hi. I have been thinking about buying a Motorcycle or a while now and I have\nsome questions:\n\n-Is there a buying guide f"
+      },
+      {
+        "id": 5673,
+        "score": 0.47716746,
+        "category": "rec.motorcycles",
+        "text": "Hi. I have been thinking about buying a Motorcycle or a while now and I have\nsome questions:\n\n-Is there a buying guide f"
+      },
+      {
+        "id": 2216,
+        "score": 0.45902115,
+        "category": "rec.motorcycles",
+        "text": "I learned when riding bareback as a kid to \"palm-reign\", by just \npushing on the right side of the horse's neck with you"
+      },
+      {
+        "id": 3934,
+        "score": 0.4076313,
+        "category": "rec.motorcycles",
+        "text": "You may find it useful.\n(This is a repost. The original sender is at the bottom.)\n-------------------cut here-----------"
+      }
+    ]
+  }
+}
